@@ -1,1 +1,11 @@
+Volume in drive C is Windows 11
+ Volume Serial Number is E217-CB8B
 
+ Directory of C:\Users\Kenan PC\Desktop\MaliOS\tmp
+
+07/05/2025  01:44 PM    <DIR>          .
+07/05/2025  01:44 PM    <DIR>          ..
+07/04/2025  03:58 PM         9,937,288 attack.exe
+07/05/2025  01:44 PM         9,942,299 test-attack.exe
+               2 File(s)     19,879,587 bytes
+               2 Dir(s)  167,757,103,104 bytes free
